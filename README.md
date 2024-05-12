@@ -21,6 +21,7 @@ Create two objects. One without arguments & the other with arguments
 Check whether the objects are equal or not using if-else condition
 
 # PROGRAM:
+```
 using System;
 namespace OperatorOverloading
 {
@@ -58,9 +59,10 @@ namespace OperatorOverloading
        }
    }
 }
-
+```
 # OUTPUT:
-![alt text](C#-05.png)
+![C#-05](https://github.com/Udhayasankaran04/19AI308-Object-Oriented-Programming-using-CSharp--Ex5-Operator-Overloading/assets/119393933/e3f16091-3cdd-4038-baa6-22d0571ea06f)
+
 
 # RESULT: 
 Thus, a C# program to find the volume of a box using operator overloading is implemented successfully.
